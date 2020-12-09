@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/thisisagile.github.io/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/thisisagile.github.io/static/js/main.ae44bd3a.chunk.js",
+    "main.js.map": "/thisisagile.github.io/static/js/main.ae44bd3a.chunk.js.map",
+    "runtime-main.js": "/thisisagile.github.io/static/js/runtime-main.1aaa01d8.js",
+    "runtime-main.js.map": "/thisisagile.github.io/static/js/runtime-main.1aaa01d8.js.map",
+    "static/js/2.b678e3a5.chunk.js": "/thisisagile.github.io/static/js/2.b678e3a5.chunk.js",
+    "static/js/2.b678e3a5.chunk.js.map": "/thisisagile.github.io/static/js/2.b678e3a5.chunk.js.map",
+    "static/js/3.affdaf3f.chunk.js": "/thisisagile.github.io/static/js/3.affdaf3f.chunk.js",
+    "static/js/3.affdaf3f.chunk.js.map": "/thisisagile.github.io/static/js/3.affdaf3f.chunk.js.map",
+    "index.html": "/thisisagile.github.io/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/thisisagile.github.io/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.b678e3a5.chunk.js.LICENSE.txt": "/thisisagile.github.io/static/js/2.b678e3a5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/thisisagile.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1aaa01d8.js",
+    "static/js/2.b678e3a5.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.ae44bd3a.chunk.js"
+  ]
+}
